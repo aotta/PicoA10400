@@ -1,12 +1,11 @@
 # PicoA10400
-Flashcart for Atari 2600 and Atari 7800 based on Pico "Purple" clone
+Flashcart for Atari 2600 and Atari 7800 based on Pico "Purple" clone, easy to build and cheap.
+This is a "double-face" flashcart, it could be used for both Atari 2600 and Atari 7800, simply rotating it and inserting the cart in different Atari!!
 
+It doesn't support all bank-switching schemas, but enough to enjoy your A2600 / A7800 with a single flash-carts!!
 
-PicoA10400 is a multicart DIY yourself based on cheap "PURPLE" Raspberry Pi Pico clone, easy to build and not expensive.
 **WARNING!** "purple" Pico has not the same pinout of original Raspberry "green" ones, you MUST use the clone or you may damage your hardware.
-
-**NOTE** dddddd
-**NOTE 2** 3D files for shell are WIP and probably the PCB doesn't fit perfectly withous some cut/drill to PCB holes!! (Thanks to Mike Wilson for the Logo version)
+**NOTE** Please look at picture for soldering side of the components, or your shell won't close!! they are different from the pcb mask!!!
 
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_01.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_02.jpg)
