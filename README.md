@@ -8,8 +8,8 @@ PicoA10400 is a multicart DIY yourself based on cheap "PURPLE" Raspberry Pi Pico
 **NOTE** dddddd
 **NOTE 2** 3D files for shell are WIP and probably the PCB doesn't fit perfectly withous some cut/drill to PCB holes!! (Thanks to Mike Wilson for the Logo version)
 
-![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoa10400_01.jpg)
-![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoa10400_02.jpg)
+![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_01.jpg)
+![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_02.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoa10400_03.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoa10400_04.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoa10400_05.jpg)
