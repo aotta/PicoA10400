@@ -3,6 +3,7 @@ Flashcart for Atari 2600 and Atari 7800 based on Pico "Purple" clone, easy to bu
 This is a "double-face" flashcart, it could be used for both Atari 2600 and Atari 7800, simply rotating it and inserting the cart in different Atari!!
 
 It doesn't support all bank-switching schemas, but enough to enjoy your A2600 / A7800 with a single flash-carts!!
+![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_06.jpg)
 
 **WARNING!** "purple" Pico has not the same pinout of original Raspberry "green" ones, you MUST use the clone or you may damage your hardware.
 **NOTE** Please look at picture for soldering side of the components, or your shell won't close!! they are different from the pcb mask!!!
@@ -11,8 +12,6 @@ It doesn't support all bank-switching schemas, but enough to enjoy your A2600 / 
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_02.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_03.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_04.jpg)
-![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_05.jpg)
-![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_06.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_07.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_08.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_09.jpg)
