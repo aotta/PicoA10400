@@ -5,6 +5,7 @@ It doesn't support all bank-switching schemas, but enough to enjoy your A2600 / 
 
 A special thanks to other opensource project for Atari multicarts from which i got a lot of info, ideas and also code:
 https://github.com/robinhedwards/UnoCart-2600
+
 https://github.com/karrika/Otaku-flash
 
 
