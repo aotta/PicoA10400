@@ -10,10 +10,15 @@ PicoA10400 is a multicart DIY yourself based on cheap "PURPLE" Raspberry Pi Pico
 
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_01.jpg)
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_02.jpg)
-![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoa10400_03.jpg)
-![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoa10400_04.jpg)
-![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoa10400_05.jpg)
-![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoa10400_01.jpg)
+![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_03.jpg)
+![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_04.jpg)
+![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_05.jpg)
+![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_06.jpg)
+![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_07.jpg)
+![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_08.jpg)
+![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_09.jpg)
+![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_10.jpg)
+![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_11.jpg)
 
 
 Kicad project and gerbers files for the pcb are in the PCB folder, you need only a diode and a push buttons for resetting the cart if needed or want restart. 
