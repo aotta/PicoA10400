@@ -14,6 +14,9 @@ https://github.com/karrika/Otaku-flash
 **WARNING!** "purple" Pico has not the same pinout of original Raspberry "green" ones, you MUST use the clone or you may damage your hardware.
 Also note that the battery used is a RECHARGEABLE LIR2032, if you want to use a NON reachargeable battery you must add a diode in circuit!!!
 
+Tested only on PAL consoles so far, feel free to send comments and feedback on AtariAge thread:
+https://forums.atariage.com/topic/374297-picoa10400-preview/
+
 **NOTE** Please look at picture for soldering side of the components, or your shell won't close!! they are different from the pcb mask!!!
 
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_01.jpg)
