@@ -27,6 +27,7 @@ https://forums.atariage.com/topic/374297-picoa10400-preview/
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_08.jpg)
 
 Also added a Raspberry Pico 2 version:
+
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/Pico2A10400.jpg)
 
 Gerbers file are provided for the PCB, add you pico clone, and flash the firmware ".uf2" in the Pico by connecting it while pressing button on Pico and drop it in the opened windows on PC.
