@@ -26,7 +26,7 @@ https://forums.atariage.com/topic/374297-picoa10400-preview/
 
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/picoA10400_08.jpg)
 
-Also added a Raspberry Pico 2 version:
+Also added a Raspberry Pico 2 version, relative files are named Pico2A10400. It works but consider its smaller flash size for roms (3mb):
 
 ![ScreenShot](https://raw.githubusercontent.com/aotta/PicoA10400/main/pictures/Pico2A10400.jpg)
 
