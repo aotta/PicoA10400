@@ -748,7 +748,7 @@ start:
   
   if (cart_to_emulate>=33) {
    vreg_set_voltage(VREG_VOLTAGE_1_25);
-   int ret=set_sys_clock_khz(380000, true); // settled in compiler IDE as 250mhz overclocked
+   int ret=set_sys_clock_khz(400000, true); // settled in compiler IDE as 250mhz overclocked
   }
   if (cart_to_emulate<=32) {
    gpio_set_dir_out_masked(BUS_H_PIN_MASK);
