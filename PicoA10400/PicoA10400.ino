@@ -722,7 +722,7 @@ start:
      delay(12); // 16 or 12 don't remove!!!
   
   if (cart_to_emulate>=35) {
-   vreg_set_voltage(VREG_VOLTAGE_1_25);
+   vreg_set_voltage(VREG_VOLTAGE_1_30);
    int ret=set_sys_clock_khz(400000, true); // settled in compiler IDE as 250mhz overclocked
   }
   if (cart_to_emulate<=32) {
