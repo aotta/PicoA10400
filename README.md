@@ -19,6 +19,7 @@ https://forums.atariage.com/topic/374297-picoa10400-preview/
 
 **BREAKING NEWS!** Pawel Gawinek (harston) forked the code and made several upgrades and optimizations to the FW, adding POKEY and DPC support and fixing the compatibility with some games.
 I have no plan at the moment to update my repo, so I definitely suggest to check his FW and any future updates at https://github.com/harston/PicoA10400-HR
+
 Good shot Pawel!
 
 **NOTE** Please look at picture for soldering side of the components, or your shell won't close!! they are different from the pcb mask!!!
